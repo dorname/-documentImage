@@ -1,0 +1,55 @@
+<mxfile host="65bd71144e">
+    <diagram id="xnTHc0tPXHAnkek5Zywd" name="Page-1">
+        <mxGraphModel dx="711" dy="1133" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="70" y="90" width="550" height="1180" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="Writing an OS in Rust" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="110" y="110" width="480" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="移除标准库（forbid standard lib）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="280" y="200" width="310" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="内容结构（Content Architect）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="110" y="200" width="120" height="1040" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="基于X86 架构的最小内核（A Minimal Rust Kernel）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="280" y="280" width="310" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="打印屏幕字符（VGA text mode）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="280" y="360" width="310" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="内核测试（kernel test）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="280" y="440" width="310" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="CPU异常处理（CPU Exceptions）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="280" y="525" width="310" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="双重故障（Double Faults）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="280" y="610" width="310" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="硬件中断（HardWare Interrrupts）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="280" y="700" width="310" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="内存分页初探（Paging）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="280" y="790" width="310" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="分页实现（Paging Implementation）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="280" y="880" width="310" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="堆分配（Heap Allocation）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="280" y="970" width="310" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="分配器设计（Allocator Designs）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="280" y="1060" width="310" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="异步和等待（Async/Await）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="280" y="1169" width="310" height="60" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
